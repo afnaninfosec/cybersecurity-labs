@@ -29,6 +29,8 @@ Environment:
 Attacker: Kali Linux (VMware Workstation)
 Target: Metasploitable 2 (VMware Workstation)
 Network: Host-only / NAT (isolated)
+Running eDEX-UI fullscreen terminal on Kali Linux with TRON theme:
+![eDEX-UI Setup](home-lab-setup/edex-screenshot.png)
 
 
 See home-lab-setup/ for setup guides and configs.
